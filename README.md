@@ -15,5 +15,5 @@ Don't run the Func.java file, it doesn nothing, it is mainly for parsing, checki
 Yet to add comments.
 
 Edit 1: Fixed an issue in CRT where 0 wouldn't be accepted as an input for resiude, also fixed an issue for CRT, LDE and LC where the program exits if no solution exists to the user input.
-
+Edit 2: Fixed an Issue in FC where it won't return the factors of 1.
 Thank You for Using this!! :)
