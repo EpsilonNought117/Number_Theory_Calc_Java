@@ -116,7 +116,7 @@ public class LDE
             }
             else
             {
-                System.out.printf("%d*(%d) = %d\n", coeff[i], sol[i], N);
+                System.out.printf(" %d*(%d) = %d\n", coeff[i], sol[i], N);
             }
 
         }
